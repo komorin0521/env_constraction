@@ -1,0 +1,2 @@
+su
+gem install bundler
